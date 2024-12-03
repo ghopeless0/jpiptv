@@ -37,11 +37,11 @@ http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 #EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
 http://tv.utako.moe/bsntva11/index.m3u8
 #EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://i.imgur.com/R7qR9pe.png" group-title="Main",BS11
-http://vthanh.utako.moe/12/index.m3u8
+http://vthanh.utako.moe/10/index.m3u8
 #EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://i.imgur.com/R7qR9pe.png" group-title="Main",BS11
 http://tv.utako.moe/bs11/index.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-logo="https://i.imgur.com/SwvuR00.png" group-title="Main",Tokyo MX1
-http://vthanh.utako.moe/10/index.m3u8
+http://vthanh.utako.moe/12/index.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-logo="https://i.imgur.com/SwvuR00.png" group-title="Main",Tokyo MX1
 http://tv.utako.moe/mx1/index.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://i.imgur.com/SwvuR00.png" group-title="Main",Tokyo MX2
